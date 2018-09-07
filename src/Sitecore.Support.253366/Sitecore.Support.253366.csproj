@@ -60,6 +60,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\zzz\Sitecore.Support.253366.config" />
+    <Content Include="sitecore\shell\Controls\DatasourceMultiRootTreeview\DatasourceMultiRootTreeview.js" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
